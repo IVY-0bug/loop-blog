@@ -296,7 +296,7 @@ aside:
       link: https://github.com/IVY-0bug
   card_announcement:
     enable: true
-    content: current flows. so do i. · RM电控 / C++ 学习笔记更新中
+    content: 嵌入式&C++学习笔记持续更新中...
   card_recent_post:
     enable: true
     # If set 0 will show all
