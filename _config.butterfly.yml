@@ -48,6 +48,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
+  fab fa-github: https://github.com/IVY-0bug || Github || '#24292e'
   fas fa-envelope: mailto:jiang0125@foxmail.com || Email || '#00f0ff'
 
 # --------------------------------------
@@ -292,10 +293,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/IVY-0bug
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: current flows. so do i. · RM电控 / C++ 学习笔记更新中
   card_recent_post:
     enable: true
     # If set 0 will show all

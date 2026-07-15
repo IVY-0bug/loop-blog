@@ -5,6 +5,7 @@ tags:
   - RM电控
 categories:
   - RM电控
+# sticky: 100   # 取消注释并设数字越大越靠前（置顶）
 ---
 
 ## 目标
