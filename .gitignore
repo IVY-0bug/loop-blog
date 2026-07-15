@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+db.json
+public/
+.deploy*/
+node_modules/
+*.log
+tools/*.txt
+tools/STATUS.txt
+tools/port4000.txt
+tools/hexo-server.log
+tools/sarzn-html-snip.txt
+tools/git-status.txt
+.idea/
+.vscode/
+*.bak
